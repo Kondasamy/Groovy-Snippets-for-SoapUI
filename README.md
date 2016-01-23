@@ -64,3 +64,68 @@ To read the value of a variable, you can just prefix the variable name with $ as
     def name ="Groovy"
     
     print "Hello " +name
+
+### Basics Structures in Groovy:
+
+#### Control Structure:
+
+The syntax of control structures such as "if-else", "for", and "while" are very similar to what we have in other programming languages. Following code snippet uses "if-else” statements
+
+    status = true
+    
+    strObject = new String("Hello")
+    
+    myList = ["1","2", "3"]
+    
+    if (status && strObject && myList) 
+    
+    { 
+    
+       //All will evaluate to true
+    
+       println "Condition is true"
+    
+    }
+    
+    else
+    
+    {
+    
+       println "Condition is false"
+    
+    }
+
+Run the code snippet and you will get Condition is true as the output. Here,
+
+*strObject (String object)* and *myList (Collection object)* will return false only if either of the two or both are null or empty.
+
+#### Iterating Structure:
+
+The syntax of the for loop is similar to the following:
+    
+    for(Object in IterableObject)
+    
+    {
+    
+       // Set of Statements.
+    
+    }
+
+
+
+
+IterableObject is a composite object which has multiple child entries so that it can be iterated. 
+
+    //A List object holding names
+    
+    def names = ["Saman", "Nethul", "Risith", "Charitha"]//List
+    
+    for(name in names)
+    
+    {
+    
+       //Iterate over the elements in names list
+    
+       println name
+    
+    }
