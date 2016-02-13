@@ -11,7 +11,7 @@ Groovy depends on **Java**. More specifically, executing Groovy files compiled t
 
 ##I wish to see the scripts directly ##
 
-[Click here to the index](https://github.com/Kondasamy/Groovy-Snippets-for-SoapUI/blob/5f9532153370ea1d987bb805da991061ea07b46f/README.md#groovy-scripts-index)
+[Click here to the index](https://github.com/Kondasamy/Groovy-Snippets-for-SoapUI/blob/master/README.md#groovy-scripts-index)
 
 ## Getting Started - Basics of Groovy:
 
