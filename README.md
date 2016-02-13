@@ -113,7 +113,6 @@ The syntax of the for loop is similar to the following:
 
 
 
-
 IterableObject is a composite object which has multiple child entries so that it can be iterated. 
 
     //A List object holding names
@@ -129,3 +128,9 @@ IterableObject is a composite object which has multiple child entries so that it
        println name
     
     }
+
+# Groovy Scripts Index: #
+[01. Set Endpoint from a Project property](https://github.com/Kondasamy/Groovy-Snippets-for-SoapUI/blob/master/01_Set%20Endpoint%20from%20a%20Project%20property.md "Set Endpoint from a Project property")
+[02. Assert - Response header variable](https://github.com/Kondasamy/Groovy-Snippets-for-SoapUI/blob/master/02_Assert%20-%20Response%20header%20variable.md "Assert - Response header variable")
+[03. Run a Test Step & Get Response XML from a Test Step](https://github.com/Kondasamy/Groovy-Snippets-for-SoapUI/blob/master/03_Run%20a%20TestStep%20and%20Get%20Response%20XML%20from%20a%20TestStep.md "Run a Test Step & Get Response XML from a Test Step")
+[04. DATE ::  Get First day & Last day of the current Year](https://github.com/Kondasamy/Groovy-Snippets-for-SoapUI/blob/master/04_DATE_Get%20First%20day%20and%20Last%20day%20of%20the%20current%20Year.md "DATE ::  Get First day & Last day of the current Year")
