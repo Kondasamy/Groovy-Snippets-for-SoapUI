@@ -9,6 +9,10 @@ Groovy is a dynamic programming language in which most of the program execution 
 
 Groovy depends on **Java**. More specifically, executing Groovy files compiled to Java byte code requires the **Java Runtime Environment (JRE)**. Java codes are executable in Groovy platform (ie. GDK: Groovy Development Kit) but, Groovy codes are not executable in Java platform (JDK: Java Development Kit). So Groovy is the super set of Java.
 
+##I wish to see the scripts directly ##
+
+[Click here to the index](https://github.com/Kondasamy/Groovy-Snippets-for-SoapUI/blob/5f9532153370ea1d987bb805da991061ea07b46f/README.md#groovy-scripts-index)
+
 ## Getting Started - Basics of Groovy:
 
 ### Default Imports:
@@ -131,6 +135,9 @@ IterableObject is a composite object which has multiple child entries so that it
 
 # Groovy Scripts Index: #
 [01. Set Endpoint from a Project property](https://github.com/Kondasamy/Groovy-Snippets-for-SoapUI/blob/master/01_Set%20Endpoint%20from%20a%20Project%20property.md "Set Endpoint from a Project property")
+
 [02. Assert - Response header variable](https://github.com/Kondasamy/Groovy-Snippets-for-SoapUI/blob/master/02_Assert%20-%20Response%20header%20variable.md "Assert - Response header variable")
+
 [03. Run a Test Step & Get Response XML from a Test Step](https://github.com/Kondasamy/Groovy-Snippets-for-SoapUI/blob/master/03_Run%20a%20TestStep%20and%20Get%20Response%20XML%20from%20a%20TestStep.md "Run a Test Step & Get Response XML from a Test Step")
+
 [04. DATE ::  Get First day & Last day of the current Year](https://github.com/Kondasamy/Groovy-Snippets-for-SoapUI/blob/master/04_DATE_Get%20First%20day%20and%20Last%20day%20of%20the%20current%20Year.md "DATE ::  Get First day & Last day of the current Year")
